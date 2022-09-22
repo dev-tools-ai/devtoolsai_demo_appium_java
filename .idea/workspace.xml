@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e712a929-a173-4755-a2fd-3f4ca7d6d4b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicCrawlAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicCrawlIOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
